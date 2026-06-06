@@ -1,7 +1,19 @@
-# Olá, eu sou o Guilherme Henrique! 👋 (ou **Xen0void** na internet)
+# Olá, eu sou o Guilherme Henrique! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-End;3+Anos+de+Experi%C3%AAncia;Freelancer+Tech" alt="Typing Effect" />
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/guicarvalho_86" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-guicarvalho__86-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:guicarvalho8492@gmail.com">
+    <img src="https://img.shields.io/badge/email-guicarvalho8492@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://discord.com/users/Xen0void.v3" target="_blank">
+    <img src="https://img.shields.io/badge/discord-Guilherme%20Carvalho-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </p>
 
 ---
@@ -19,7 +31,7 @@ Durante a minha carreira, atuei de forma sólida como desenvolvedor freelancer, 
 
 ### 🛠️ Tecnologias & Ferramentas
 
-aqui estão algumas ferramentas e tecnologias que utilizo para dar vida aos projetos:
+Aqui estão algumas ferramentas e tecnologias que utilizo para dar vida aos projetos:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,bootstrap,figma,git,github,vscode&theme=dark" alt="Minhas Tecnologias Animadas" />
@@ -38,19 +50,13 @@ aqui estão algumas ferramentas e tecnologias que utilizo para dar vida aos proj
 
 ### 📫 Como me encontrar?
 
-Conecte-se comigo através das minhas redes e canais oficiais:
+Conecte-se comigo através das minhas redes e canais oficiais atualizados:
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/guilherme-henrique-584997410?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/xen0void.v3" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="mailto:dev.xen0void@proton.mail" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
-</div>
-
-* **LinkedIn:** [Guilherme Henrique](https://www.linkedin.com/in/guilherme-henrique-584997410?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-* **Instagram:** [@xen0void.v3](https://instagram.com/xen0void.v3)
-* **Discord:** `xen0void.v3`
-* **E-mail:** [dev.xen0void@proton.mail](mailto:dev.xen0void@proton.mail)
+* 📸 **Instagram:** [@guicarvalho_86](https://instagram.com/guicarvalho_86)
+* 💬 **Discord:** `Xen0void.v3` (Guilherme Carvalho)
+* ✉️ **E-mail:** [guicarvalho8492@gmail.com](mailto:guicarvalho8492@gmail.com)
+* 💼 **LinkedIn:** [Guilherme Henrique](https://www.linkedin.com/in/guilherme-henrique-584997410?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 <p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+<p align="center"><small>© 2026 Guilherme Carvalho</small></p>
